@@ -78,8 +78,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'arquitectura_catalog',
-        'USER': 'root',
-        'PASSWORD': '',
+        'USER': 'jillder',
+        'PASSWORD': 'Jordan099500.',
         'HOST': 'localhost',
         'PORT': '3306',
     }
